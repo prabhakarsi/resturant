@@ -9,37 +9,37 @@ export const MenuList = [
   {
     name:"Dosa",
     description: "A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground",
-Image:require('../component/layout/images/dosa.jpg'),
+image:require('../component/layout/images/dosa.jpg'),
 price:200,
   },
 {
     name:"Chhola",
     description: "A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground",
-Image:Chhola,
+image:Chhola,
 price:300,
   },
   {
     name:"Gujrati",
     description: "A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground",
-Image:Gujrati,
+image:Gujrati,
 price:400,
   },
   {
     name:"Idli",
     description: "A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground",
-Image:Idli,
+image:Idli,
 price:500,
   } ,
   {
     name:"Masala",
     description: "A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground",
-Image:Masala,
+image:Masala,
 price:600,
   },
   {
     name:"Paneer",
     description: "A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground",
-Image:Paneer,
+image:Paneer,
 price:700,
   },
 ]
